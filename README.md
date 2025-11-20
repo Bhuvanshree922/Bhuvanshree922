@@ -21,16 +21,15 @@ Default
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+QA+Automation+Engineer;%E2%9C%93+AI+Engineer;%E2%9C%93+Data+Enthusiast;%E2%9C%93+ML+Expertise;%E2%9C%93+NLP+Developer)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhuvanshree922&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/gokulapap)
+
 
 ### 🚀 About Me
 
-- 🛡️ Cybersecurity enthusiast, automation geek, and DevOps practitioner — building tools that make a difference!
-- 🔭 Currently working on Python, Penetration Testing, and DevOps
-- ⚙️ Writing `.py` scripts daily to automate security and DevOps workflows
-- 🤝 Open to collaborating on Python, DevOps and Pentesting
-- 💬 Ask me about Python, Ethical Hacking, Automation and DevSecOps
-- 📫 Connect with me: **[GOKUL A.P](https://www.linkedin.com/in/gokulap)** (Linkedin)
+- 🛡️ AI/ML enthusiast, automation geek, and ML practitioner — building tools that make a difference!
+- 🔭 Currently working on Python, Automation, Machine learning, GEN AI
+- 🤝 Open to collaborating on Python, ML, GEN AI
+- 💬 Ask me about Python, AI, Automation
+- 📫 Connect with me: **[Bhuvanshree B](https://www.linkedin.com/in/bhuvanshree/)** (Linkedin)
 
 <!-- <hr>
 
@@ -43,35 +42,9 @@ Default
 - 🔧 Automated Trivy Docker image scanning & remediation, improving security workflows.
 - ⚡ Created a Python based automation tool for scanning Docker images and alerting Critical Secrets. -->
 
-<hr>
 
-### 🌐  My Online Presence
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gokulap">
-  <img align="left" alt="gokulap | Linkedin" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;
-<a href="https://twitter.com/CodingGokul">
-  <img align="left" alt="gokulap | Twitter" width="29px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;
-<a href="https://www.instagram.com/gokulapap">
-  <img align="left" alt="gokulap | Instagram" width="29px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a>&nbsp;
-<a href="mailto:apgokul008@gmail.com">
-  <img align="left" alt="gokulap | Gmail" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>&nbsp;
-<a href="https://gokulapap.github.io">
-  <img align="left" alt="gokulap | Blog" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a>&nbsp;
-<a href="https://t.me/gokul_ap">
-  <img align="left" alt="gokulap | Blog" width="29px" src="img/telegram.svg" />
-</a>&nbsp;
-<a href="https://drive.google.com/file/d/1DMduvlCWw_Y9Td9yEoSWNpeWp69JRS0V/view?usp=sharing">
-  <img align="left" alt="gokulap | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a>
-<p>
 
-<hr>
 
 ### 💻 Techstack
  
