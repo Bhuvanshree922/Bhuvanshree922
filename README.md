@@ -1,25 +1,9 @@
-<!--
-**gokulapap/gokulapap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-Default
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- ⚡ Fun fact: ..
--->
-
-<!--
-<img src="./img/gitbanner.svg" height=170px width=670px></img>
--->
 
 
 ### Hi there! 👋 This is Bhuvanshree 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokul~%23+whoami;%E2%9C%93+QA+Automation+Engineer;%E2%9C%93+AI+Engineer;%E2%9C%93+Data+Enthusiast;%E2%9C%93+ML+Expertise;%E2%9C%93+NLP+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35;%E2%9C%93+QA+Automation+Engineer;%E2%9C%93+AI+Engineer;%E2%9C%93+Data+Enthusiast;%E2%9C%93+ML+Expertise;%E2%9C%93+NLP+Developer)](https://git.io/typing-svg)
 
 
 
